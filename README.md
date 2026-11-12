@@ -1,8 +1,10 @@
 # Week12-Presentation
 
 Evaluating team:
-- Please create a post your question in the column corresponding to the team you are evaluating 
-- Please include your team number in the title of your post e.g. [Group x] 
+- Please create a post your question in the issue corresponding to the team you are evaluating and ask at least one questions to the team you are evaluating.
+- Please include your team number in the title of your post e.g. [Group x] using markdown syntax
+  e.g. ## [Group 2]
+  
 
 
 Project team to be evaluated:
